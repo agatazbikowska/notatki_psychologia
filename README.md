@@ -4,4 +4,4 @@ Tu znajdują się moje notatki odnośnie przedmiotów na kierunku Psychologia Zd
 ## Rok I
 
 ### Genetyka
-[notatki odnośnie egzaminu ](notatki_psychologia/Genetyka_rok_I.Rmd)
+[notatki odnośnie egzaminu ](https://github.com/agatazbikowska/notatki_psychologia/commit/8d4b749cbfcfd0bf38811ff6f96f9af77c751bde)

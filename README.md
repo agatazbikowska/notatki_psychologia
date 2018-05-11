@@ -4,4 +4,4 @@ Tu znajdują się moje notatki odnośnie przedmiotów na kierunku Psychologia Zd
 ## Rok I
 
 ### Genetyka
-[notatki odnośnie egzaminu ](notatki_psychologia/Genetyka_rok_I.html)
+[notatki odnośnie egzaminu ](notatki_psychologia/Genetyka_rok_I.Rmd)

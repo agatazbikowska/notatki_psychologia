@@ -1,0 +1,78 @@
+---
+title: "Genetyka"
+author: "Agata Żbikowska"
+output: 
+  html_document:
+    theme: readable
+    
+---
+
+#Genetyka 
+
+###Genom ludzki:
+
+wynosi blisko 30 000 genów oraz zawiera **46 chromosomów** w tym:
+
+* 22 pary chromosomów autosomalnych
+* 2 chromosomy płci (XX lub XY)
+
+DNA mitochondrialne koduje 37 genów + enzymy szlaku metabolicznego komórki 
+DNA mit jest dziedziczone po matce.
+
+###DNA – podwójna helisa
+
+* Struktura cząsteczki zaproponowana w 1953 przez Watsona i Cirka
+* Jest prawoskrętne (zgodnie z ruchem wskazówek zegara) 
+* Łańcuchy położone są antyrównolegle 
+* Grupy fosforowe i grupy cukrowe zlokalizowane są na zewnątrz łańcucha, natomiast zasady azotowe wewnątrz helisy
+* Miedzy komplementarnymi zasadami (A-T; C-G) znajdują się wiązania wodorowe 
+* Nukleotydy są połączone wiązaniami fosfodiestrowymi 
+
+![fot.1.](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fstatic2.opracowania.pl%2Fimages%2F187454%2Fschemat_budowy_nukleotydu_dna.jpg&f=1)
+
+![fot.2.](https://images.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.YG9z6BI6EeBMi-GoLsZXaAAAAA%26pid%3D15.1&f=1)
+
+###RNA
+
+* jest mało stabilną cząsteczką
+* jest głównie jednoniciowe : 
+
+**kodujące** → mRNA-(z ang. messenger RNA; RNA informacyjne), transkrypt genów które ulegają translacji do białek. Stanowi 3-5% całkowitego RNA 
+
+**niekodujące** → rRNA - (z ang. ribosomal RNA; RNA rybosomowe), buduje rybosomy 
+      tRNA - (z ang. transfer RNA; RNA transferowy, RNA transportujący), dostarcza aminokwasy do rybosomu (70 do 80 nukleotydów) 
+
+![fot.3.](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.whatisdna.net%2Fwp-content%2Fuploads%2F2016%2F09%2FRNAvsDNA.jpg&f=1)
+
+###Replikacja DNA
+
+![fot.4.](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fe-biotechnologia.pl%2Fobrazki%2Freplikacja2.jpg&f=1)
+
+###Mutacja
+
+Jest to zmiana w sekwencji nukleotydów w materiale genetycznym organizmu/komórki.
+
+**Mutacje indukowane** to takie mutacje spowodowane działaniem czynników fizycznych lub chemicznych.
+**Mutacje letalne** to mutacje śmiertelne. 
+
+Mutacje to min:
+
+* substytucje
+* mutacja zmiany sensu – zamiana pary nukleotydów np. TA na AT 
+* mutacja nonsensowna – kodon zamieniany przemienia się w kodon STOP przez co jest zahamowana dalsza produkcja białka
+* zmiana ramki odczytu 
+* delecja powodująca utratę sensu sekwencji 
+* delecja powoduje zamianę sekwencji aminokwasów 
+* delecje – usunięcie nukleotydu
+* insercje (w tym duplikacje)
+
+Mutacje mogą być chromosomowe lub genowe.
+
+Przy mutacjach chromosomowych wyróżniamy: 
+
+* aneuploidie – dotyczące jednej pary chromosomów np. 2+1 () lub 2-1 (zespół Downa)
+* euploidie – dotyczące całej puli chromosomów np. organizm o liczbie 3n
+
+
+
+

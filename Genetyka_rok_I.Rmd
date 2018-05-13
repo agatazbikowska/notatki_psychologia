@@ -1,10 +1,10 @@
 ---
 title: "Genetyka"
-author: "Agata Żbikowska"
-output: 
+author: "Agata Ĺ»bikowska"
+output:
   html_document:
     theme: readable
-    
+  word_document: default
 ---
 
 #Genetyka 
@@ -48,6 +48,38 @@ DNA mit jest dziedziczone po matce.
 
 ![fot.4.](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fe-biotechnologia.pl%2Fobrazki%2Freplikacja2.jpg&f=1)
 
+REPLIKACJA DNA JEST PROCESEM SEMIKONSERWATYWNYM.
+
+**Replikacja semikonserwatywna** - sposób replikacji cząsteczki DNA; w nowej cząsteczce DNA (po replikacji) jedna nić pochodzi ze starej cząsteczki DNA, a druga (nowa) nić jest dobudowana na zasadzie komplementarności.
+
+(Cały proces replikacji jest dobrze i dokładnie opisany w prezentacji)
+
+## Gen koduje białko
+
+DNA -> transkrypcja -> mRNA -> translacja -> BIAŁKO
+
+* transkrypcja - takie jakby tłumaczenie/odczytywanie DNA 
+                  zachodzi w jądrze komórkowym
+                  
+* translacja - dobudowanie biosynteza białka 
+                odbywa się w cytozolu za pomocą rybosomów
+                
+### Kod genetyczny
+
+* Nienakładający się, bezprzecinkowy
+* Niemalże uniwersalny
+* Zdegenerowany
+* Kodon start : AUG
+* Stop kodony : UAA, UAG, UGA
+
+### Nazewnictwo 
+
+* Gen to podstawowa jednostka dziedziczenia, która determinuje powstanie białka, zapisana w sekwencji nukleotydów
+* Allel - odmiana genu
+* Locus - miejsce, w którym zlokalizowany jest gen na chromosomie
+* Genotyp - zespół genów odpowiedzialnych za fenotyp danego osobnika
+* Fenotyp - zbiór cech danego osobnika
+
 ###Mutacja
 
 Jest to zmiana w sekwencji nukleotydów w materiale genetycznym organizmu/komórki.
@@ -66,13 +98,17 @@ Mutacje to min:
 * delecje – usunięcie nukleotydu
 * insercje (w tym duplikacje)
 
-Mutacje mogą być chromosomowe lub genowe.
+####Mutacje mogą być chromosomowe lub genowe.
 
 Przy mutacjach chromosomowych wyróżniamy: 
 
 * aneuploidie – dotyczące jednej pary chromosomów np. 2+1 () lub 2-1 (zespół Downa)
 * euploidie – dotyczące całej puli chromosomów np. organizm o liczbie 3n
 
+Mutacje somatyczne - powstają w komórkach somatycznych. Z punktu widzenia ewolucji nieistotne. Maja znaczenie biologiczne jeśli powodowany przez nie fenotyp jest szkodliwy dla zdrowia organizmu – mogą inicjować tworzenie nowotworu.
 
+Mutacje generatywne - powstają w gametach, mogą być przekazywane potomstwu, pozostają bez wpływu na fenotyp w którym wystąpiły. Mają znaczenie w ewolucji genomu
 
+Mutacje somatyczne oraz mutacje letalne nie są przekazywane z pokolenia na pokolenie
 
+![fot.5.](https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4f%2FChromosomes_mutations-pl.svg%2F220px-Chromosomes_mutations-pl.svg.png&f=1)

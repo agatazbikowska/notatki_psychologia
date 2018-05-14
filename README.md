@@ -8,4 +8,4 @@ Tu znajdują się moje notatki odnośnie przedmiotów na kierunku Psychologia Zd
 
 ### Psychologia poznawcza
 
-[głównie notatki do 3 kolokwium](
+[głównie notatki do 3 kolokwium](https://github.com/agatazbikowska/notatki_psychologia/commit/e3629723356ccff600cc7e7091051aa1ec467a7f)

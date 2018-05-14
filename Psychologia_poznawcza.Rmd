@@ -1,0 +1,204 @@
+---
+title: "Psychologia_poznawcza"
+author: "Agata Żbikowska"
+date: "14 maja 2018"
+output: 
+        html_document:
+          theme: readable
+---
+
+# Trzecie kolokwium
+
+### wiedza i poznanie → funkcje wykonawcze → działanie 
+
+*Funkcje wykonawcze* to system przetwarzania informacji, występują między umysłem a działaniem. To takie programowanie wiedzy, kontrolowanie i modyfikowanie jej. 
+
+Zaburzenia funkcji wykonawczych u studenta:
+
+* pisanie eseju bez materiałów
+* problem z zaczęciem zadania
+* problem z planowaniem zadania
+* problem z samodzielnymi zadaniami 
+* wrażenie  osoby rozproszonej/impulsywnej
+* problem z zadaniami nagłymi/nowymi
+
+Funkcje wykonawcze łączą się z mechanizmami uwagi. 
+U organizmów wyższych zachodzi „sprzężenie zwrotne” ze świata wewnętrznego (prezka). Kiedy działamy to reagujemy. Jest to związane z aktywnością kory czołowej. 
+
+Tak zwany **cykl POSTERIOR-ANTERIOR** odnosi się do zjawisk mających miejsce w różnych miejscach w czasie ( post – przeszłość, ant – przyszłość ) Może zachodzić równolegle na kilku piętrach mózgu. Może dawać podstawę do f uwagi. Zapewnia nam do działania ponadczasowego (zadań wieloetapowych). 
+
+Struktury zaśrodkowe mózgu związane z przetwarzaniem działają „w tył”, buforują czas w tył. Kora skroniowa, potyliczna. 
+
+Struktury przedśrodkowe buforują czas „w przód”.Neurony kory przedczołowej mają zdolność do podtrzymywania pobudzenia(przetwarzania) podczas równoległego działania struktur zaśrodkowych.
+
+Na nasze decyzje wpływa wiele czynników z przeszłości (emocje, prawne konsekwencje, wyuczone zachowania, język, ograniczenia etyczne … )
+
+###Funkcje wykonawcze:
+
+* zapewniają zdolność do inicjowania działań
+* umożliwiają również hamowanie oraz powstrzymanie rozpoczętych działań 
+* są potrzebne w sytuacjach NOWYCH (kiedy obieramy nowe cele, plany)
+* uruchamiają się w zadaniach trudnych, a nie w wykonywanych automatycznie
+* są ukierunkowane na przyszłość, przewidywanie zadań i na przyszłe cele
+* wiążą sytuacje „przyczynowo skutkowo”
+* koordynują działania rozproszone w czasie
+* umożliwiają wybór celu
+* mają charakter metapoznawczy (umiejętność wyodrębnienia z siebie jakiegoś elementu, „stanięcia obok” i analizy sytuacji )
+* zarządzają, regulują i sterują innymi procesami psychicznymi(emocjonalnymi, behawioralnymi)
+
+###Funkcje wykonawcze a inne funkcje poznawcze 
+
+UWAGA (selektywność i odporność na dystrakcję)
+PAMIĘĆ OPERACYJNA
+
+Inne połączone:
+
+* funkcje abstrakcyjne (matematyczne działania, wyobrażenia, zakładanie jakiś scenariuszy odnośnie sytuacji)
+* planowanie działania
+* pamięć prospektywna - Dotyczy zapamiętywania planów i zamiarów – jest to pamiętanie o wykonaniu określonej czynności w przyszłości. Pamięć prospektywna, w odróżnieniu od pamięci retrospektywnej (dotyczącej zapamiętywania zdarzeń i faktów z przeszłości), dotyczy przyszłości. Koncentruje się na pamięci zadań, które mają być wykonane w określonym czasie i miejscu w przyszłości. Podczas gdy funkcją pamięci retrospektywnej jest przywoływanie informacji z przeszłości, w pamięci prospektywnej informacja może być wielokrotnie przywoływana. Zadanie będzie spełnione jedynie wtedy, gdy informacja zostanie wydobyta z pamięci w momencie, w którym zaplanowana czynność powinna być wykonana 
+* poznawcza estymacja
+* płynność poznawcza, podtrzymanie i zmiana nastawienia (mental set)
+* kontrola wykonawcza – test Stroopa (ten test z kolorami i napisami kolorów)
+
+###Funkcje wykonawcze a procesy emocjonalno-motywacyjne
+
+* dostarczają motywacji 
+* wspomagają procesy socjalizacji i możliwe dzięki temu interakcje społeczne
+* pozwalają na samokrytycyzm 
+* umożliwiają samokontrolę
+* pozwalają na odroczenie jakiegoś działania w wyższym celu później
+
+
+
+To jak nasze funkcje wykonawcze działają zależy min. 
+
+adekwatność vs nieadekwatność reakcji do wymogów sytuacyjnych
+
+poczucie dystansu vs zaburzenia poczucia dystansu społecznego ( brak jakiś regulacji w swoim zachowaniu społecznym np. wchodzenie w nadmierną bliskość z kimś )
+
+empatia vs obniżona empatia 
+
+wgląd w siebie vs obniżony wgląd w siebie (ekstrawertyzacja)
+
+uwzględnienie vs nieuwzględnienie konsekwencji (społecznych) własnego działania
+
+
+Funkcje wykonawcze są bardzo trudne do zdefiniowania. Istnieje wiele definicji z których każda zawiera w sobie ziarnko prawdy. 
+Zazwyczaj definiuje się fw jako funkcje wyższego rzędu. 
+
+###Modele funkcji wykonawczych 
+
+* **Model Broadbenta** – teoria szyjki od butelki
+       model przetwarzania informacji, odnosi się do FW przez wyjaśnienie funkcji uwagi
+       
+          przetwarzanie automatyczne → przetwarzanie kontrolowane      
+        działanie poza świadomością            świadoma uwaga      
+        
+* **Model Treisman** - teoria filtru uwagi
+* **Model Posnera i Snydera** - Posner zakładał, że istnieją automatyczne systemy aktywacji. 
+* **Model Shiffrina & Schneidera** - Różnice w przetwarzanie automatycznym vs przetwarzaniu kontrolowanym. (do kolokwium)
+
+| automatyczne   |  kontrolowane |
+|----------------|:-------------:|
+| * szybkie      | * wolne       |
+| * nie zużywają zasobów poznawczych | * zużywają zasoby poznawcze |
+| * mogą zachodzić po kilka na raz | * wymagają procesów wyższych (synteza, analiza) |
+    
+## MODEL NADZORUJĄCEGO SYSTEMU UWAGI-ważne
+
+Koncepcja, realizacja-Jeśli robimy coś świadomie to my o tym wiemy, podpisujemy się pod tym 
+
+Podczas wykonywania zadań poznawczych czasami są potrzebne świadome zasoby, a czasami nie
+
+Potrzeba świadomości: 
+
+* jeśli zadanie wymaga planowania i podejmowania decyzji
+* jeśli to co robimy jest składową jakiegoś problemu
+* kiedy jakaś czynność jest jeszcze niedostatecznie wyuczona
+* kiedy zadania są niebezpiecznie lub trudne technicznie 
+* kiedy musimy się przeciwstawić bardzo silnej wyuczonej tendencji
+
+Automatyczne działania możemy poddać świadomości i kontroli, powstrzymać nawykowe rekcje jeśli jest do tego powód. Np. test Stroopa 
+
+Mamy schematy działania.
+To czy my wybierzemy jakiś schemat działania zależy od: zjawiska w środowisku bodźcowym, procesy poznawcze wyższych rzędów.
+
+Rywalizacja programów działania- miedzy wyuczonymi działaniami przebiega rywalizacja, wybrany zostanie jeden z dostępnych działania na podstawie : zjawisk w środowisku bodźcowym, procesy poznawcze wyższych rzędów.
+
+Dla zadań nawykowych istnieją i działają na nie pewne wyzwalacze działania.
+Kiedy nie ma wcześniej działających schematów działania np. w nowych zadaniach włącza nam się nadzorujący system uwagi(manipuluje recznie prawdopodobieństwem aktywacji którychś ze schematów działania)
+
+####Nadzorujący system uwagi = centralny system uwagi
+
+Dlaczego działa wątek pionowy i poziomy?
+
+**Poziomy**- jest szybki, nie potrzeba wiele zasobów, ale plastyczność tego systemu jest ograniczona do bardzo dobrze znanych sytuacji
+
+**Pionowy**- nie ma ograniczeń jeśli chodzi o zawartość zużytych zasobów, ale potrzeba do nich wszystkich naszych zasobów poznawczych, tracimy automatyzmy 
+
+Ten model nie obejmuje tego że działania nowe, powtórzone kilka razy staje się automatycznie, niezależne od nadzorującego systemu uwagi.
+Najprawdopodobniej wyuczamy się tych schematów.
+
+**Uczenie probabilistyczne**- efektem działania jest podjęcie określonej decyzji, próbujemy podjąć decyzje w oparciu o wiele bodźców, podjęcie decyzji A lub nie A(tej lub przeciwnej), nieświadome, mamy mnóstwo wiedzy tak wyuczonej, a nawet o tym nie wiemy
+
+* **MODEL ANDERSONA** 
+
+Funkcje wykonawcze próbujemy zrozumieć w 4 formach:
+
+* Giętkość poznawcza- uwaga, inf zwrotne, pamięć operacyjna, podzielność uwagi
+* Określenie celu działania- inicjowanie działania, planowanie, organizacja
+*  Przetwarzanie informacji- sprawność, płynność
+*  Kontrolująca funkcja uwagi- uwaga selektywna, samokontrola, wygaszanie
+Każdy z każdym reaguje.
+
+
+**MYŚLENIE I ROZWIĄZYWANIE PROBLEMÓW**
+
+1. Myślenie wymaga wystąpienia w umyśle(pamięci operacyjnej) :
+
+    • Reprezentacji realnych lub abstrakcyjnych obiektów
+    • Operacji przetwarzania informacji zawartych w tych reprezentacjach
+    
+Te operacje zachodzą według stosownych do problemu reguł.
+Rola myślenia:
+
+    • Testowanie sytuacji potencjalnie rzeczywistych(pozwala na wybór optymalnej procedury zachowania spośród kilku możliwych, przydatne zwłaszcza w sytuacjach nowych)
+    • Testowanie rozwiązań odnoszących się do sytuacji z definicji abstrakcyjnych(przydatne w rozwoju nauk formalnych np. logika, matematyka, przydatne  w rozwoju umiejętności myślenia, przygotowywanie rozwiązań dla sytuacji które mogą zdarzyć się w przyszłości)
+
+2. Default Mode Network
+
+3.Jakie są typy myślenia?
+
+Myślenie produktywne- nie oznacza twórcze
+Myślenie reproduktywne
+
+4. Rozwój myślenia( teoria Piageta):
+
+* Stadium rozwoju sensoryczno- motorycznego( do 2 r.ż.)
+Dzieci zauważają przyczynowo skutkowość, powtarzanie wzorców, zmienianie wzorców, wytwarzanie schematów wielozmysłowych, dostrzega zmienność i permanentność obiektów,zdolność do reprezentowania przedmiotów- dzięki temu możliwe jest natychmiastowe poprawne ustawienie obiektu w oparciu o wykonaną wcześniej w wyobraźni rotacje, intencjonalność działania 
+
+* Stadium myślenia przedoperacyjnego (od 2 do 7)
+Dzieci posługują się wzrokowymi reprezentacjami wyobrażonych obiektów w procesach myślenia, pojawia się zabawa symboliczna, rysunek, mowa, uczą się powstrzymywać wrodzony egocentryzm , pojawia się odroczone naśladownictwo, porządkowanie obiektów z uwagi na nasilenie danej cechy, klasyfikacja, utrzymywanie w umyśle dwóch relacji naraz, odwracalność( wałeczek z plasteliny uformowany z identycznej kulki )
+
+* Stadium operacji konkretnych( od 7 do 11)
+Rozwój operacji logicznych w pełnej odwracalności, pełne reprezentacje umysłowe, w sytuacjach sprzeczności danych percepcyjnych i rozumowania zwycięża rozumowanie, wszystko to umie zrobić tylko jeśli przeżył to w praktyce 
+
+* Stadium operacji formalnych(od11)
+Możliwe jest działanie na reprezentacjach abstrakcyjnych, problemy rozwiązywane dotyczą KLAS sytuacji a nie pojedynczej sytuacji, mogą być natychmiast generalizowane na sytuacje nowe, możliwe operacje wnioskowania indukcyjnego i dedukcyjnego
+
+#### Teorie myślenia:
+
+    • Teoria Dawida Berlyne – nawiązuje do tradycji behawiorystycznej, myślenie jest ciągiem związków bodziec-reakcja, przy czym charakter jest symboliczny a nie realny
+    • Teoria Jonathana Barona- operacje myślowe: poszukiwanie(możliwości, dowody, cele) i wnioskowanie 
+    
+#### Klasyfikacje operacji umysłowych
+
+    • Analiza – synteza
+    • Algorytmy – heurystyki
+    
+Heurystyka:  zacznij od tyłu- wyobrażanie sobie efektu, sytuacji końcowej
+                       Byle bliżej 
+                       
+    • Transformacje np. transformacja zerowa- nie zmienia stanu obiektu
+
+

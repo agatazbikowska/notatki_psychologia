@@ -1,6 +1,6 @@
 ---
 title: "Genetyka"
-author: "Agata Ĺ»bikowska"
+author: "Agata Żbikowska"
 output:
   html_document:
     theme: readable
@@ -28,6 +28,7 @@ DNA mit jest dziedziczone po matce.
 * Miedzy komplementarnymi zasadami (A-T; C-G) znajdują się wiązania wodorowe 
 * Nukleotydy są połączone wiązaniami fosfodiestrowymi 
 
+
 ![fot.1.](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fstatic2.opracowania.pl%2Fimages%2F187454%2Fschemat_budowy_nukleotydu_dna.jpg&f=1)
 
 ![fot.2.](https://images.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.YG9z6BI6EeBMi-GoLsZXaAAAAA%26pid%3D15.1&f=1)
@@ -35,12 +36,21 @@ DNA mit jest dziedziczone po matce.
 ###RNA
 
 * jest mało stabilną cząsteczką
+* występuje uracyl zamiast tyminy
 * jest głównie jednoniciowe : 
 
 **kodujące** → mRNA-(z ang. messenger RNA; RNA informacyjne), transkrypt genów które ulegają translacji do białek. Stanowi 3-5% całkowitego RNA 
 
 **niekodujące** → rRNA - (z ang. ribosomal RNA; RNA rybosomowe), buduje rybosomy 
       tRNA - (z ang. transfer RNA; RNA transferowy, RNA transportujący), dostarcza aminokwasy do rybosomu (70 do 80 nukleotydów) 
+      
+Wszystkie znane tRNA mają następujące cechy wspólne: 
+
+- Ramię antykodonowe. Rozpoznaje kodon na mRNA  
+- Ramię akceptorowe. Sekwencja CCA - miejsce przyłączania aminokwasu  
+- Ramię DHU (Dihydrouracylowe) sekwencja tu zawarta rozpoznawana jest przez enzym, który przyłącza do tRNA odpowiedni aminokwas   
+- Ramię TΨC (Pseudouracylowe) umożliwia przymocowanie do rybosomu 
+      
 
 ![fot.3.](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.whatisdna.net%2Fwp-content%2Fuploads%2F2016%2F09%2FRNAvsDNA.jpg&f=1)
 
@@ -52,7 +62,17 @@ REPLIKACJA DNA JEST PROCESEM SEMIKONSERWATYWNYM.
 
 **Replikacja semikonserwatywna** - sposób replikacji cząsteczki DNA; w nowej cząsteczce DNA (po replikacji) jedna nić pochodzi ze starej cząsteczki DNA, a druga (nowa) nić jest dobudowana na zasadzie komplementarności.
 
-(Cały proces replikacji jest dobrze i dokładnie opisany w prezentacji)
+REPLIKACJA DNA
+
+1. Białka SSB łącząc się do pojedynczych nici, Zapobiegają renaturacji 
+2. Helikaza łączy się z miejscem inicjacji i rozplata dwuniciową strukturę DNA 
+3. Primaza syntetyzuje starter RN
+4. Polimeraza DNA syntetyzuje nową nić oraz sprawdza poprawność wbudowywanych nukleotydów, usuwając nieprawidłowe.
+5. Nić wiodąca syntetyzowana jest w całości,  w kierunku 5’utr do 3’utr
+6.  Nić opóźniona syntetyzowana jest w krótszych fragmentach (Okazaki), także w kierunku 5’ do 3’ 
+7. Egzonukleaza wycina starter
+8. Ligaza łączy powstałe fragmenty DNA 
+
 
 ## Gen koduje białko
 
@@ -97,6 +117,14 @@ Mutacje to min:
 * delecja powoduje zamianę sekwencji aminokwasów 
 * delecje – usunięcie nukleotydu
 * insercje (w tym duplikacje)
+* mutacja silent- potencjalnie nie zmienia białka, jeżeli wystąpi w konkretnym miejscu nie zmieni DNA, ale może zmienić RNA
+
+Sekwencja prawidłowa THE ONE BIG FLY HAD ONE RED EYE 
+Mutacja zmiany sensu  THQ ONE BIG FLY HAD ONE RED EYE 
+Mutacja nonsensowna  THE ONE BIG *** 
+Przesunięcie ramki odczytu THE ONE QBI GFL YHA DON ERE DEY
+Delecja   THE ONE BIG HAD ONE RED EYE 
+Insercja   THE ONE BIG WET FLY HAD ONE RED EYE Duplikacja   THE ONE BIG FLY FLY HAD ONE RED EYE 
 
 ####Mutacje mogą być chromosomowe lub genowe.
 
@@ -112,3 +140,52 @@ Mutacje generatywne - powstają w gametach, mogą być przekazywane potomstwu, p
 Mutacje somatyczne oraz mutacje letalne nie są przekazywane z pokolenia na pokolenie
 
 ![fot.5.](https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4f%2FChromosomes_mutations-pl.svg%2F220px-Chromosomes_mutations-pl.svg.png&f=1)
+
+## Choroby genetyczne
+
+#### Mukowiscydoza 
+
+* Wrodzona, genetycznie uwarunkowana choroba ogólnoustrojowa. 
+* Najczęściej występująca u ludzi choroba genetyczna (średnio 1 na 2500 żywych urodzeń). 
+* Dziedziczona jest w sposób autosomalny recesywny. 
+* Przyczyną jest mutacja genu odpowiedzialnego za syntezę błonowego kanału chlorkowego CFTR (cystic fibrosis transmembrane conductance regulator) 
+* Nieprawidłowy transport, jonów chlorkowych sprawia, że na zewnątrz komórek odczyn zmienia się na bardziej kwaśny, co prowadzi do zaburzeń funkcji komórek nabłonkowych. 
+* Na przykład nieszkodliwe w normalnych warunkach substancje występujące w śluzie, zwane mucynami, w kwaśnym środowisku wytrącają się powodując, że wydzielany przez różne gruczoły śluz staje się gęsty.  
+* Zaburza to pracę narządów posiadających gruczoły śluzowe (płuca, oskrzela, trzustka).
+
+#### Choroba Huntingtona
+
+* Autosomalna dominujaca 
+* Powolna degeneracja komórek nerwowych mózgu, wyniszczenie organizmu, ewentualna śmierć po 15-20 latach od momentu ujawnienia się choroby 
+* Objawy: ruchowe - skurcze mięśni, tiki nerwowe, sztywność,  zaburzenia równowagi, trudności w wymowie, trudności z  przełykaniem pokarmów, zmiany osobowości, apatia, uczucie  niepokoju, nerwowość, obsesje, majaczenia, manie prześladowcze i wewnętrzne przekonanie iż jest się zdrowym 
+* Allel z premutacją - 30 powtórzeń CAG   
+* 36 do 180 powtórzeń CAG w allelu zmutownym 
+* Wiek, w którym pojawiają się pierwsze objawy choroby  pozostaje w ścisłej korelacji z ilością powtórzeń CAG 
+* Ludzki gen Hdh (chromosom 4) zawiera sekwencje 5’-CAG-3’ powtórzoną kolejno od 10 do 35 razy, która w produkcie białkowym koduje serię glutamin.  
+* W chorobie Huntingtona liczba tych powtórzeń zwiększa się do 36-121 razy co zwiększa długość traktu poliglutaminowego i powoduje powstanie nieprawidłowo funkcjonującego białka. 
+
+#### Zespoł łamliwego chromosomu X
+
+* Objawy chorobowe wśród mężczyzn: IQ od 20 do 60, odróżniająca budowa ciała, wystające uszy, duże jądra, nadaktywność lub autyzm  
+* Objawy chorobowe wśród kobiet: opóźnienie w rozwoju umysłowym (połowa ma normalne IQ) 
+* Mutacja w genie FMR1 położonym na chromosomie X.  
+* Białko FMRP, kodowane przez gen FMR1 jest niezbędne do prawidłowego rozwoju synaps między neuronami odpowiedzialnymi m.in. za procesy uczenia się i zapamiętywania.  Jego brak powoduje opóźnienie dojrzewania neuronów
+
+#### Dysforia miotoniczna
+
+* Postępująca słabość mięśni, zwłaszcza mięśni twarzy, mięśni mostkowo-sutkowych, dystalnych mięśni kończyn  
+* norma 5 – 37 powtórzeń CTG, u osób chorych 50 – 3000 powtórzeń CTG
+
+#### Niepełnosprawność intelektualna
+
+* Grupa schorzeń rozwojowych charakteryzująca się istotnie zaburzonymi zdolnościami poznawczymi prowadzącymi do ograniczeń w zakresie uczenia się, zachowań adaptacyjnych i umiejętności praktycznych.
+* Pacjenci mają istotnie niższy od przeciętnego ogólny poziom funkcjonowania intelektualnego występujący łącznie z deficytem w zakresie zachowań adaptacyjnych (w szczególności niezależności i odpowiedzialności)
+* Ograniczenie w funkcjonowaniu intelektualnym oraz przystosowaniu społecznym.
+* Zaburzenie rozwojowe – ujawnia się przed 18rż.
+zwykle współwystępuje opóźnienie rozwoju motorycznego
+
+#### Zaburzenia kręgu autyzmu (ASD)
+
+**Spektrum autystyczne** – szerokie pojęcie, obejmujące różne typy osób o cechach autystycznych, wykazujących odmienne mechanizmy lub przyczyny powodujące trudności rozwojowe i mające często odrębne wymagania wobec środowiska. Wszystkie one charakteryzują się znacznymi zaburzeniami interakcji społecznych i komunikacji, jak również znacznie ograniczonymi zainteresowaniami i bardzo powtarzalnym zachowaniem.
+
+![fot.9](https://images.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-mQF_68Lwe44%2FUjrshFoWbEI%2FAAAAAAAAEUw%2F_H7l0TRwvfc%2Fs1600%2FMTAyNHg3Njg%2Cautyzm.jpg&f=1)

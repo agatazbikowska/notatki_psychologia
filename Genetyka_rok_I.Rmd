@@ -119,12 +119,20 @@ Mutacje to min:
 * insercje (w tym duplikacje)
 * mutacja silent- potencjalnie nie zmienia białka, jeżeli wystąpi w konkretnym miejscu nie zmieni DNA, ale może zmienić RNA
 
+
 Sekwencja prawidłowa THE ONE BIG FLY HAD ONE RED EYE 
+
 Mutacja zmiany sensu  THQ ONE BIG FLY HAD ONE RED EYE 
+
 Mutacja nonsensowna  THE ONE BIG *** 
+
 Przesunięcie ramki odczytu THE ONE QBI GFL YHA DON ERE DEY
+
 Delecja   THE ONE BIG HAD ONE RED EYE 
-Insercja   THE ONE BIG WET FLY HAD ONE RED EYE Duplikacja   THE ONE BIG FLY FLY HAD ONE RED EYE 
+
+Insercja   THE ONE BIG WET FLY HAD ONE RED EYE 
+
+Duplikacja   THE ONE BIG FLY FLY HAD ONE RED EYE 
 
 ####Mutacje mogą być chromosomowe lub genowe.
 
@@ -141,7 +149,64 @@ Mutacje somatyczne oraz mutacje letalne nie są przekazywane z pokolenia na poko
 
 ![fot.5.](https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4f%2FChromosomes_mutations-pl.svg%2F220px-Chromosomes_mutations-pl.svg.png&f=1)
 
+## Genetyka klasyczna
+
+#### Grzegorz Mendel 
+
+1. Pierwsze prawo Mendla - prawo o segregacji gamet
+
+W czasie tworzenia gamet każda para alleli ulega segregacji, a gameta przenosi tylko jeden allel danego genu.
+
+2. Drugie prawo Mendla 
+
+Geny należące do różnych par alleli dziedziczą się niezależnie i są przekazywane do gamet oddzielnie, na zasadzie segregacji losowej.
+
+Mendel udowodnił , że dziedziczenie cech grochu oparte jest na zestawie praw (które później zostały nazwane od jego nazwiska prawami Mendla).
+Podzielił cechy na cechy **recesywne** oraz **dominujące**.
+
+*Dominacja częściowa* - współdziałanie genów allelicznych = np. biały+czerwony->różowy
+
+*Kodominacja* - występowanie dwóch alleli danego genu z których żaden nie jest ani dominujący ani recesywny. Grupy krwi (AA, AB, BB)
+
+*Fenomen bombajski* - występowanie grupy krwi 0 (układ AB0) u osób mających geny odpowiedzialne za powstawanie grup A i B.
+Z powodu obecności regularnych przeciwciał anty-A, anty-B oraz anty-H ludzie z fenotypem Bombay nie mogą być biorcami krwi innej niż o fenotypie Bombay. Z powodu rzadkości występowania może to stanowić problem w sytuacji wymagającej przetoczenia krwi u tych pacjentów.
+
+*Penetracja* - procentowa częstość z jaką przejawia się gen dominujący lub recesywny
+
+*Ekspresywność* - stopień fenotypowego przejawiania się genu
+
 ## Choroby genetyczne
+
+### Chromosomopatie - choroby wywołane aberracjami chromosomowymi
+
+**Trisomie**
+
+* Chromosom 21 - Zespół Downa 
+* Chromosom 18 - Zespół Edwardsa
+* Chromosom 13 - Zespół Patau
+
+#### Zespół Downa 
+
+Częstotliwość występowania rośnie wraz z wiekiem matki.
+
+* niepełnoprawność intelektualna
+* mongoloidalne ustawienie szpar powiekowych
+* zmarszczka nakątna
+* dysplastyczne uszy
+* wystający, duży język
+* płaska potylica
+
+Translokacyjny Zespół Downa - Nadmiar materiału genetycznego chromosomu 21. W takim przypadku długie ramię chromosomu 21 jest przyłączone do innego chromosomu, często jest to chromosom 14 albo pozostaje przyłączony do chromosomu 21. Prawidłowy podział mejotyczny prowadzący do powstania gamet obarczony jest wówczas znacznym ryzykiem powstania aneuploidalnych komórek płciowych.
+
+#### Zespół Edwardsa
+
+* przewaga płci żeńskiej
+* większość ulega poronieniu (95%) –wysoka umieralność we wczesnym okresie niemowlęcym (30% dzieci umiera w pierwszym miesiącu życia)
+* wydatna potylica
+* stopy o łukowato wygiętych podeszwach
+* znaczne opóźnienie rozwoju
+
+![fot.10.](https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.haikudeck.com%2Fmg%2FVEBAvxQIXV_1396489500173.jpg&f=1)
 
 #### Mukowiscydoza 
 
@@ -189,3 +254,13 @@ zwykle współwystępuje opóźnienie rozwoju motorycznego
 **Spektrum autystyczne** – szerokie pojęcie, obejmujące różne typy osób o cechach autystycznych, wykazujących odmienne mechanizmy lub przyczyny powodujące trudności rozwojowe i mające często odrębne wymagania wobec środowiska. Wszystkie one charakteryzują się znacznymi zaburzeniami interakcji społecznych i komunikacji, jak również znacznie ograniczonymi zainteresowaniami i bardzo powtarzalnym zachowaniem.
 
 ![fot.9](https://images.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-mQF_68Lwe44%2FUjrshFoWbEI%2FAAAAAAAAEUw%2F_H7l0TRwvfc%2Fs1600%2FMTAyNHg3Njg%2Cautyzm.jpg&f=1)
+
+#### Anemia sierpowata 
+
+* wrodzona choroba krwi
+* nieprawidłowa budowa hemoglobiny, która nie tylko słabo wiąże cząsteczki tlenu, lecz także przyczynia się do deformacji czerwonych krwinek (zamiast kształtu dysku przybierają kształt półksiężyców - sierpowaty).
+* mała przeżywalność czerwonych krwinek (zamiast ok 100 przeżywają ok kilkunastu dni)
+* szpik nie nadąża z wytwarzaniem nowych krwinek, co jest przyczyną anemii
+* chorzy są oporni na malarię
+
+

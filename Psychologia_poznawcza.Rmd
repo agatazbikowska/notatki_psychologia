@@ -104,7 +104,7 @@ Zazwyczaj definiuje się fw jako funkcje wyższego rzędu.
 | * nie zużywają zasobów poznawczych | * zużywają zasoby poznawcze |
 | * mogą zachodzić po kilka na raz | * wymagają procesów wyższych (synteza, analiza) |
     
-## MODEL NADZORUJĄCEGO SYSTEMU UWAGI-ważne
+## MODEL NADZORUJĄCEGO SYSTEMU UWAGI-ważne (TO NOTOWAŁA KLAUDUSIA)
 
 Koncepcja, realizacja-Jeśli robimy coś świadomie to my o tym wiemy, podpisujemy się pod tym 
 
@@ -188,8 +188,8 @@ Możliwe jest działanie na reprezentacjach abstrakcyjnych, problemy rozwiązywa
 
 #### Teorie myślenia:
 
-    • Teoria Dawida Berlyne – nawiązuje do tradycji behawiorystycznej, myślenie jest ciągiem związków bodziec-reakcja, przy czym charakter jest symboliczny a nie realny
-    • Teoria Jonathana Barona- operacje myślowe: poszukiwanie(możliwości, dowody, cele) i wnioskowanie 
+* **Teoria Dawida Berlyne** – nawiązuje do tradycji behawiorystycznej, myślenie jest ciągiem związków bodziec-reakcja, przy czym charakter jest symboliczny a nie realny
+* **Teoria Jonathana Barona** - operacje myślowe: poszukiwanie(możliwości, dowody, cele) i wnioskowanie 
     
 #### Klasyfikacje operacji umysłowych
 
@@ -199,6 +199,201 @@ Możliwe jest działanie na reprezentacjach abstrakcyjnych, problemy rozwiązywa
 Heurystyka:  zacznij od tyłu- wyobrażanie sobie efektu, sytuacji końcowej
                        Byle bliżej 
                        
-    • Transformacje np. transformacja zerowa- nie zmienia stanu obiektu
+Transformacje np. transformacja zerowa- nie zmienia stanu obiektu
+
+####Rozumowanie sylogistyczne
+Wariant rozumowania dedukcyjnego w którym istnieją dwie przesłanki (mniejsza i większa) np:
+Drzewa są większe od krzaków -> krzaki są większe od trawy -> drzewa są większe od trawy
+
+Często występują błędy rozumowania sylogistycznego:
+zależą od kontekstu wiedzy i atmosfery (prezka)
+
+####Rozumowanie warunkowe
+Orzeka o kierunku związku przyczynowego
+
+Zagadka Petera Catharta Wasona (1966) : 
+
+![fot.6](https://zagadkowcy.files.wordpress.com/2014/06/test-selekcji1.gif?w=600&h=212&crop=1)
+
+
+###Myślenie i rozwiązywanie problemów
+
+#####Problemy są dywergencyjne i konwergencyjne.
+
+Dywergencyjne : drogi prowadzące do postawienia problemu do rozwiązania prowadzą do różnych stanów docelowych z punktu widzenia treści rozwiązania niemniej każda zawiera w sobie rozwiązania.
+Jak nie podejdziemy do problemu będziemy mieli kilka różnych rozwiązań.
+
+Konwergencyjne : jak nie podejdziemy do sytuacji istnieje **JEDNO** rozwiązanie.
+
+
+Sytuacje dobrze określone to takie, w których występuje jeden cel, albo też wiele celów. Gdy mamy do czynienia z jednym celem, pojawia sie myślenie konwergencyjne, czyli myslenie zbieżne. Do tego celu można dochodzić różnymi drogami albo tylko jedną drogą. Często autorzy rozmaitych testów tak formułują problemy, że mają one tylko jedno poprawne rozwiązanie. 
+Gdy myslenie ukierunkowane jest na wiele celów, to w fazie wstepnej nastepuje ich selekcja- wybierane są takie, których osiągnięcie pozwala na maksymalizowanie rozmaitych korzyści albo unikanie niebezpieczeństw. Jest to myślenie dywergencyjne, które często pojawia sie u ofiar przemocy, np. maltretowana kobieta może zastanawiać się na tym jak przerwać swoja tragiczna sytuację- może myslec o rozwodzie, o samodzielnym wymierzeniu sprawiedliwości, o opuszczeniu męża,albo czekać aż mąż sam sie opamieta. 
+
+"Psychologia poznania" Maruszewski 
+
+![fot.7.](https://dorseykaufmann.files.wordpress.com/2014/09/screen-shot-2014-09-08-at-10-33-41-pm.png)
+
+#####Problemy proste i złożone
+Problemy *proste* zazwyczaj mają jeden wątek i są rozwiązywane przez wgląd. Problemy *złozone* są wielowątkowe.
+
+####Fazy rozwiązywania problemów:
+
+1. Identyfikowanie problemu-problemy są nam zadawane, zauważane przez nas lub wykorzystywane
+2. Definiowanie problemu
+3. Dobranie strategii rozwiązania (zbiór informacji i przydzielanie zasobów)
+4. Monitorowanie postępów
+5. Ocena poprawności
+
+Przeszkody w efektywnym myśleniu : 
+
+*sztywność myślenia (sztywność związana z nawykiem, trudność w zmianie myślenia o przestrzeni problemowej, trudność w wytworzeniu różnych rozwiązań zwłaszcza pod presją czasu)
+*nastawienie
+
+###Wydawanie sądów i podajmowanie decyzji
+
+Decyzja-wybór możliwości działania
+
+Wydawanie sądów - wydawanie wprost stwierdzenia na jakiś temat, prowadzące do jakiejś decyzji
+
+* mogą mieć charakter intuicyjny
+* sądy antyintuicyjne - odnoszą się do cech, nas samych i innych ludzi
+* sądy probabilistyczne
+* sądy wartościujące
+
+**Paradoks hazardzisty** to przeświadczenie o zalezności zdarzeń niezależnych. 
+
+Złudzenie koniunkcji najczesciej dotyczy cech. 
+
+#####Heurystyka dostępności
+
+* wydarzenia bliższe czasowo są pamiętane lepiej
+* złudzenie osobistego doświadczenia 
+* stosowanie heurystykki zakotwiczenia i dopasowania
+* efekt potwierdzenia 
+
+**Sądy intuicyjne** to sądy potoczne oraz alogiczne. Jest to kumulacja nieświadomego doświadczenia.
+
+Podejmowanie decyzji - decyzja racjonalna opiera się na obliczaniu ilorazu potencjalnego zysku i jego prawdopodobieństwa (klasyczna teoria)
+
+zysk x prawdopodobieństwo jego uzyskania -> decyzja 
+
+**Herbert A. Simon 1956, Strategia "wystarczajączej satysfakcji"**
+
+Decydenci poszukują wystarczającego rozwiązania a nie najlepszego. 
+
+**Amos Tversky 1972, Strategia eliminacji wg. aspektów**
+
+przykład : reklama z eliminacją (prezka)
+
+**Gigerenzer, Todd 1999**
+
+Heurystyki powinny być najprostsze (kieruj się tym co dla Ciebie najważniejsze). Ludzie kierują się tym aby były *szybkie*-podejmowane w krótkim czasie oraz *oszczędne*-najmniej angażujące funkcje poznawcze
+
+Ludzie wpierw analizują która CECHA jest dla nich najważniejsza, potem porównują parami. Jeżeli nie da się wybrać z pary to kierujemy się cechą następną po naważniejszej i znowu porównujemy dwójkami. Jeżeli to nie pomaga to wybieramy opcję która ostatnio się udała(usłyszeliśmy o takim przypadku albo sami go przeżyliśmy), dopiero na końcu wybieramy "na odwal"
+
+**Efekt obramowania (Tversky & Kahnemann 1981)**
+
+## Procesy poznawcze, a procesy emocjonalne
+
+Emocje są stanami subiektywnymi, są również trudne do formalnego badania. 
+
+Emocje towarzyszące procesom poznawczych mogą wpłynąć na ich przebieg (osądy, podejmowanie ryzyka, myślenie, zapamiętywanie).
+
+Emocje mogą wpływać na stan organizmu (reakcje fizyczne min hormony, stan skóry, napięcie mięśni, częstość oddechu).
+
+Wiążą się z rozwojem układu nerwowego (układ limbiczny).
+
+**Procesy interpretacji danych sytuacyjnych**
+Jak procesy poznawcze wpływają na wywołanie emocji?
+
+* **Jaki jest wpływ emocji na przebieg procesów poznawczych?**
+
+#### Podejście kategorialne 
+
+Paul Ekhman, Carroll E. Izard
+Istnieje kilka stałych, jakościowo odmiennych uniwersalnych emocji np. gniew, wstręt, strach, szczęście, smutek, zdziwienie
+
+#### Wundt i jego ujęcie wymiarowe 
+
+Wilhelm Wundt założył, że emocje rozkładają się na wymiarach. W oparciu o bardziej podstawowe stany emocjonalne rozkładając emocje na ich wymiarach możemy określić bardziej szczegółowe stany emocjonalne.
+
+![fot.11](https://www.ocf.berkeley.edu/~jfkihlstrom/IntroductionWeb/images/emotion/Wundt.JPG)
+
+#### Russell
+
+Tu również występowały wymiary. Wymiar pobudzenie-spokój i przyjemny-nieprzyjemny. Russel założył, że istnieje korelacja między wymiarami.
+
+![fot.12](https://www.researchgate.net/profile/Jose_Canas2/publication/318031044/figure/fig1/AS:510823420395520@1498801202324/The-two-dimensions-of-emotions-Valence-negative-positive-and-arousal-low-high-Every.png)
+
+
+To co jest trefne w jego teorii to to, że wg niego emocje po dwóch przeciwnych stanach wymiarów nie mogą występować razem (a np ludzie mogą jednocześnie płakać i się śmiać)
+
+
+#### Watson i Tellegen 
+
+Negują teorię Russella.
+
+![fot.13](https://www.researchgate.net/publication/232571238/figure/fig1/AS:267471508733989@1440781585505/The-two-dimensional-structure-of-affectFrom-Toward-a-Consensual-Structure-of-Mood-by.png)
+
+
+### Negativity bias - asymetria pozytywno-negatywna
+
+Większe znaczenie mają oceny negatywne niż oceny pozytywne. Np Jeden zadowolony klient powie średnio 5 osobom o udanym zakupie, a jeden niezadowolony powie 10-12 osobom.
+
+### Teoria Cannona-Barda 
+
+* Emocje i pobudzenie pojawiają się w tym samym czasie
+
+### Teoria Jamesa-Langego 
+
+* Emocja jest wynikiem pobudzenia
+* Pierwsza teoria tego typu
+* Wg nich odczuwamy strach ponieważ drżymy
+* Ma zastosowanie do emocji które oczuwamy fizycznie
+* Dzięki temu hipoteza "markera somatycznego" Damasio 
+
+### Dwuczynnikowa teoria emocji Schachtera i Singera 
+
+Pobbudzenie i poznanie łączą się tworząc emocje. Eksperyment ze strzykawkami(?)
+
+#### Warianty tego co pojawia się pierwsze w warunkach analizy złożonych sytuacji bodźcowych
+
+1. Klasyczne ujęcie : procesy poznawcze dominują i decydują o wyborze emocji.
+Wg klasycznej teorii Lazarusa (1966,1982) istnieją trzy formy interpretacji:
+
+* Interpretacja podstawowa - sytuacje interpretuje się jako pozytywną ALBO stresująca ALBO nieistotna dla nas (wpierw sytuacje interpretujemy w stosunku do siebie)
+* Interpretacja wtórna - bierze się pod uwagę zasoby, którymi dysponuje osoba aby poradzić sobie z daną sytuacją
+* Reinterpretacja wtórna - sytuacja bodźcowa i strategia radzenia sobie z sytuacją są ponownie analizowane, a interpretacja wtórna i podstawowa mogą zostać zmodyfikowane
+
+W 1993 Smirh i Lazarus rozbudowali tę teorię i wyodrębnili sześć elementów interpretacji (prezka).
+
+2. Sądy emocjonalne mogą powstawać *przed* sądami poznawczymi lub *bez wsparcia* procesów poznawczych (Zajonc)
+Nie trzeba się dowiadywać aby wiedzieć co się woli. 
+
+####Efekt ekspozycji - Robert Zajonc
+
+#### Joseph E. LeDoux i jego dwie ścieżki procesów emocjonalnych
+
+1. Droga krótka: bodziec -> wzgórze -> ciało migdałowate -> reakcja emocjonalna
+2. Droga długa: bodziec -> kora nowa/sensoryczna -> hipokamp -> ciało migdałowate -> reakcja emocjonalna
+
+Istnieją dwie ścieżki gdyż pozwala nam to być elastycznym w ocenie sytuacji: 
+
+* Droga krótka - np sytuacja ucieczki 
+* Droga długa - np sytuacja analizy jakiegoś problemu 
+
+### Rola emocji dla procesów poznawczych
+
+* Funkcja informacyjna 
+* Funkcja aktywacyjna - emocje są paliwem dot. przeprowadzenia różnych procesów poznawczych
+* Funkcja modulacyjna - emocje mogą podtrzymać proces poznawczy
+
+
+
+
+
+
+
+
 
 

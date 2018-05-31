@@ -1,0 +1,138 @@
+---
+title: "Statystyka"
+author: "Agata Żbikowska"
+date: "31 maja 2018"
+output:
+  html_document:
+    theme: readable
+  word_document: default
+  pdf_document: default
+---
+
+## Zajęcia 1 
+
+* Obliczanie średniej : =ŚREDNIA(zakres)
+* Obliczanie odległości od średniej : =(element-$średnia$)
+* Obliczanie odległości od średniej do kwadratu : =odległość od średniej^2
+
+ Potem obliczamy 
+ * Sumę odległości od średniej do kwadratu
+ * Sumę / (n-1)
+ * Pierwiastek od Sumy / (n-1)
+ 
+Obliczanie SUM itp wykonujemy w tej samej kolumnie co obliczanie odległości od średniej.
+
+## Zajęcia 2
+
+### HISTOGRAM
+
+1. Na ile klas(przedziałów) dzielimy dane?
+Zalezy to od liczby elementów w naszym zbiorze
+a. k1 = 1 + 3,3 log(n)
+b. k2 <= 5log(n)
+
+* Określamy liczbę elementów w naszym zbiorze (n)
+* Wykonujemy dwa działania (k1 i k2) -> to co nam wyjdzie to liczba przedziałów na jaką mamy podzielić histogram
+Jeżeli wychodzą nam dwie różne liczby wybieramy między nimi.
+
+2. Jaka jest szerokość przedziału?
+
+C = R/k, gdzie R to rozstęp(minim - max)
+
+* Znajdujemy maksymalną wartość ze zbioru : MAKS(zakres zbioru)
+* Znajdujemy minimalną wartość ze zbioru : MIN(zakres zbioru)
+* Wyliczamy rostęp : wartość maksimum odjąć wartość minimum
+* Wyliczamy C -> WYNIKU NIE ZAOKRĄGLAMY
+
+3.Funkcja CZĘSTOŚĆ ----- Formuła przedziałowa
+
+* Dodajemy do minumum szerokość klasy ( C )
+* Wybieram funkcję CZĘSTOŚĆ
+
+Tworzę tabelę. 
+Kolumna "tablica_dane" w której są nasze wartości - są one po lewej stronie arkusza.
+Tworzę kolumnę "tablica_przedziały" w której są pokolei wymienione moje przedizały.
+
+
+## Zajęcia 22.05.18
+
+### Zmienna : jakościowa, porządkowa, ilościowa
+
+* Zmienna ilościowa rozdziela się na zmienną skokową i zmienną ciągłą.
+* Dla zmiennej ilościowej obliczamy parametry skokowe miary zróżnicowania oraz …
+* Dla zmiennej jakościowej będziemy wykorzystywać:  tabele liczebności, wykresy słupkowe i kołowe.
+
+To wszystko to **statystyka opisowa**. Statystyka opisowa to obserwacja w zakresie „jak jest”. Co dane mówią nam o sobie samych.
+
+**Statystyka inferencyjna**: podsumowuje zbiór obserwowanych wartości/elementów (rozkład).
+Statystyka inf. to formułowanie hipotez statystycznych, zakładanie przyszłości. Interpretacja faktów ze statystyki opisowej.
+
+## Statistica 
+
+Znajdowanie „błędu” : statystica -> zaznacz kolumnę -> dane -> sprawdzanie danych (pojawiają się warunki, tu zaznaczyć : podświetl dane), 
+
+Sortowanie : ikonka AZ
+
+Badanie normalności rozkładu-  jak rozkładają się wartości najmniejsze i największe. Test Shapiro-Wilka (S-W).
+
+Jeżeli wyjdzie p<0,05 to nie ma cech rozkładu normalnego
+Jeżeli wyjdzie p>0,05 to ma cechy rozkładu normalnego
+ 
+**Badanie normalności rozkładu w statistice**
+
+Statystyka -> statystyki opisowe -> zakladka NORMALNOŚĆ -> guzik histogramy -> wybieramy zmienna
+
+1) Pytanie badawcze
+
+2) Hipoteza badawcza
+    *  H0 – hipoteza zerowa – brak różnic
+    *  H1 – są istotne różnice
+    
+p<0,05 odrzucamy H0, przyjmujemy H1
+
+p>0,05 przjmujemy H0, bo nie ma podstaw do jej odtrącenia
+
+# NA EGZAMIN
+
+Sposoby opisu statystycznego : moda, mediana, średnia (ogólna statystyka)
+
+* Moda - najczęściej występująca wartość 
+* Mediana - wartość środkowa
+* Średnia - no to średnia 
+
+Na czym polega weryfikacja hipotez (teoretycznie) : tabelaryczność, 
+
+Weryfikacja hipotez statystycznych – sprawdzanie sądów o populacji przez badanie jej wycinka (próby statystycznej). Wyróżnia się kilka podejść do problemu weryfikacji hipotez, między innymi:
+
+* wnioskowanie częstościowe, z użyciem P-wartości – służące kontroli błędów decyzyjnych (w szczególności: błędu I i błędu II rodzaju), tak aby w długim horyzoncie czasowym spodziewać się, że nie popełnimy ich częściej, niż założyliśmy (według przyjętego poziomu istotności, np. w 5% przypadków)
+
+* iloraz wiarygodności – służące do rozstrzygnięcia, w jakiej proporcji dane świadczą na rzecz dwóch porównywanych hipotez
+
+* wnioskowanie bayesowskie, z użyciem czynnika Bayesa – służące do wyrażenia subiektywnej pewności, jaką można, na podstawie danych i wcześniejszych oczekiwań, przypisać danej hipotezie.
+
+### LICZENIE :
+
+* Odchylenie standardowe (jest wyżej)
+* histogram (w exelu)
+* funkcja „jeżeli”,
+
+```
+Funkcja jeżeli jest jedną z najpopularniejszych funkcji w programie Excel i umożliwia logiczne porównania między wartością i czego można oczekiwać. W postaci najłatwiejszym nosi nazwę funkcji jeżeli:
+
+JEŻELI (jakieś wyrażenie jest prawdziwe, to wykonaj określone działanie, a w przeciwnym razie wykonaj inne działanie)
+
+Aby wyrażenia IF może zawierać dwóch wyników. Pierwszy wynik to, jeśli porównania ma wartość PRAWDA, druga, jeśli porównania ma wartość FAŁSZ.
+
+
+```
+
+* pisanie wzorów np. na BMI, 
+* Zagnieżdżanie funkcji w funkcji (jeżeli .. jeżeli),
+
+```
+Jeżeli chcemy stworzyć funkcje w funkcji to w nawiasach pierwszej funkcji umieszczamy kolejną funkcję np
+=JEŻELI(coś tam coś tam;JEŻELI(coś coś))
+```
+
+* znajdowanie czynników odstających, 
+
